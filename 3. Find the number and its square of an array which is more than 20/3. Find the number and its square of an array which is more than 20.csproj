@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_3._Find_the_number_and_its_square_of_an_array_which_is_more_than_20</RootNamespace>
+  </PropertyGroup>
+
+</Project>
