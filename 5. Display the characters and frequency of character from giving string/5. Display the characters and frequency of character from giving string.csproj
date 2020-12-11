@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_5._Display_the_characters_and_frequency_of_character_from_giving_string</RootNamespace>
+  </PropertyGroup>
+
+</Project>

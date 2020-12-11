@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_7._Display_numbers_multiplication_of_number_with_frequency_and_the_frequency_of_number_in_array</RootNamespace>
+  </PropertyGroup>
+
+</Project>

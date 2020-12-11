@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_6._Display_the_name_of_the_days_of_a_week</RootNamespace>
+  </PropertyGroup>
+
+</Project>
